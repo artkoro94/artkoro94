@@ -1,14 +1,28 @@
-## Hi there! 👋
+## Hi there!
 
 My name is Arthur, I'm frontend developer since 2025.
 
 A little bit about me:
 
-## 🌐 Contacts
+##  Projects
+
+### [RS Tandem](https://github.com/kanoplich/rs-tandem)
+- Team development of an AI-powered interview trainer · RS School
+- Frontend development, UI and features
+
+### [Swagger Editor App](https://github.com/hazardsoft/swagger-editor-app)
+- Team graduation project · RS School (React)
+- AI-assisted development · Claude, ChatGPT
+
+### [RS React](https://github.com/artkoro94/rs-react)
+- Individual practice · React
+- Learning projects and modern frontend stack
+
+## Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/https://web.telegram.org/k/)
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages & Web**
 
