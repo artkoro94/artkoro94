@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there! 👋
 
-# 👋 Hi there!
+My name is Arthur, I'm frontend developer since 2025.
 
-**Frontend Developer | React · TypeScript**
+A little bit about me:
 
-## 🌐 Contact Me
+## 🌐 Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/https://web.telegram.org/k/)
 
