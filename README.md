@@ -5,7 +5,7 @@ I'm Arthur, a frontend developer since 2025.
 
  - [RS Tandem](https://github.com/kanoplich/rs-tandem) — AI-powered interview trainer · Team project
  - [Swagger Editor App](https://github.com/hazardsoft/swagger-editor-app) — React graduation project · Team project (AI-assisted development)
- - [RS React](https://github.com/artkoro94/rs-react) — Individual React practice
+ - [Pokedex](https://github.com/artkoro94/rs-react) — Individual React practice
 
 ## Tech Stack
 
