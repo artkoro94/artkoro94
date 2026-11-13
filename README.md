@@ -8,9 +8,14 @@ Team:
  - [Swagger Editor App](https://github.com/hazardsoft/swagger-editor-app) — React graduation project · Team project (AI-assisted development)
 
  Solo:
+
  - [Pokedex](https://github.com/artkoro94/rs-react) — Individual React practice
+
+ Solo (e-commerce):
+ 
  - [Pizza-lab](https://github.com/artkoro94/pizza-lab) — Pizza delivery (Own practice #1)
  - [Fixora-home](https://github.com/artkoro94/fixora-home) — Home service (Own practice #2)
+   
 
 ## Tech Stack
 
