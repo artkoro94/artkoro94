@@ -6,7 +6,8 @@ I'm Arthur, a frontend developer since 2025.
  - [RS Tandem](https://github.com/kanoplich/rs-tandem) — AI-powered interview trainer · Team project
  - [Swagger Editor App](https://github.com/hazardsoft/swagger-editor-app) — React graduation project · Team project (AI-assisted development)
  - [Pokedex](https://github.com/artkoro94/rs-react) — Individual React practice
- - [Pizza-lab](https://github.com/artkoro94/pizza-lab) — Own practice #1
+ - [Pizza-lab](https://github.com/artkoro94/pizza-lab) — Pizza delivery (Own practice #1)
+ - [Fixora-home](https://github.com/artkoro94/fixora-home) — Home service (Own practice #2)
 
 ## Tech Stack
 
