@@ -10,7 +10,8 @@ Team:
  Solo:
 
  - [Pokedex](https://github.com/artkoro94/rs-react) — Individual React practice
- - [Christmas-shop](https://github.com/artkoro94/christmas-shop) — Individual JS/TS Practice
+ - [Christmas-shop](https://github.com/artkoro94/christmas-shop) — Individual JS/TS Practice #1
+ - [Shelter](https://github.com/artkoro94/shelter) — Individual JS/TS Practice #2
 
  Solo (e-commerce):
  
