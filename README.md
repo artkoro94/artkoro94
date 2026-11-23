@@ -2,21 +2,18 @@
 I'm Arthur, a frontend developer since 2025.
 
 ## Projects
-Team:
+Team practice:
 
  - [RS Tandem](https://github.com/kanoplich/rs-tandem) — AI-powered interview trainer · Team project 💎
  - [Swagger Editor App](https://github.com/hazardsoft/swagger-editor-app) — React graduation project · Team project (AI-assisted development)
 
- Solo:
-
- - [Pokedex](https://github.com/artkoro94/rs-react) — Individual React practice
- - [Christmas-shop](https://github.com/artkoro94/christmas-shop) — Individual JS/TS Practice #1
- - [Shelter](https://github.com/artkoro94/shelter) — Individual JS/TS Practice #2
-
- Solo (e-commerce):
+ Solo practice:
  
- - [Pizza-lab](https://github.com/artkoro94/pizza-lab) — Pizza delivery (Own practice #1)
- - [Fixora-home](https://github.com/artkoro94/fixora-home) — Home service (Own practice #2)
+ - [Pokedex](https://github.com/artkoro94/rs-react) — Individual React practice
+ - [Christmas-shop](https://github.com/artkoro94/christmas-shop) — Christmas shop
+ - [Shelter](https://github.com/artkoro94/shelter) — Shelter
+ - [Pizza-lab](https://github.com/artkoro94/pizza-lab) — Pizza delivery
+ - [Fixora-home](https://github.com/artkoro94/fixora-home) — Home service
    
 
 ## Tech Stack
