@@ -9,9 +9,9 @@ Team practice:
 
  Solo practice:
  
- - [Pokedex](https://github.com/artkoro94/rs-react) — Individual React practice
- - [Christmas-shop](https://github.com/artkoro94/christmas-shop) — Christmas shop
- - [Shelter](https://github.com/artkoro94/shelter) — Shelter
+ - [Pokedex](https://github.com/artkoro94/rs-react) — Pokemon catalog
+ - [Christmas-shop](https://github.com/artkoro94/christmas-shop) — Christmas gift store
+ - [Shelter](https://github.com/artkoro94/shelter) — Animal shelter
  - [Pizza-lab](https://github.com/artkoro94/pizza-lab) — Pizza delivery
  - [Fixora-home](https://github.com/artkoro94/fixora-home) — Home service
    
